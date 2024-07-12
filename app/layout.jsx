@@ -1,7 +1,11 @@
-import { Inter } from "next/font/google";
+import { Marcellus, Montserrat } from "next/font/google";
 import "./globals.css";
 
-const inter = Inter({ subsets: ["latin"] });
+const marcellus = Marcellus({
+  subsets: ["latin"],
+  weight: ["400"],
+  variable: "--font-marcellus",
+});
 
 export const metadata = {
   title: "Create Next App",

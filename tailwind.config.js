@@ -31,6 +31,10 @@ module.exports = {
         secondary: {
           DEFAULT: "#f2dfce",
         },
+        accent: {
+          DEFAULT: "#f19687",
+          100: "#f2d5c5",
+        },
       },
       keyframes: {
         "accordion-down": {

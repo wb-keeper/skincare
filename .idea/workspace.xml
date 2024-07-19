@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="967f5ef0-031d-480e-89d3-bee7bcacc1fa" name="Changes" comment="First commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/globals.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/layout.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +19,9 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2j6yndXks3ZpuliFhiYaae5nQho" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -66,7 +66,8 @@
       <workItem from="1720893813256" duration="1690000" />
       <workItem from="1721073432031" duration="300000" />
       <workItem from="1721156341131" duration="1614000" />
-      <workItem from="1721244352687" duration="436000" />
+      <workItem from="1721244352687" duration="457000" />
+      <workItem from="1721414201878" duration="403000" />
     </task>
     <servers />
   </component>

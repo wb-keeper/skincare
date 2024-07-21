@@ -2,7 +2,7 @@
 import React, { createContext } from "react";
 import { motion } from "framer-motion";
 export const CursorContext = createContext();
-const CursorContext = ({ children }) => {
+const CursorProvider = ({ children }) => {
   const [cursor, setCursor] = React.useState({
     size: 30,
     background: "#473936",
@@ -11,4 +11,4 @@ const CursorContext = ({ children }) => {
   return <CursorContext.Provider>{children}</CursorContext.Provider>;
 };
 
-export default CursorContext;
+export default CursorProvider;

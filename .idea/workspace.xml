@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="967f5ef0-031d-480e-89d3-bee7bcacc1fa" name="Changes" comment="First commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/CursorContext.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/CursorContext.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Header.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +69,8 @@
       <workItem from="1721156341131" duration="1614000" />
       <workItem from="1721244352687" duration="457000" />
       <workItem from="1721414201878" duration="502000" />
-      <workItem from="1721588358343" duration="1067000" />
+      <workItem from="1721588358343" duration="1106000" />
+      <workItem from="1721765235064" duration="402000" />
     </task>
     <servers />
   </component>
